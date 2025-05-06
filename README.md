@@ -1092,6 +1092,7 @@ A GitHub conflict is when people make changes to the same area or line in a file
   - [Fayas Noushad](https://github.com/FayasNoushad)
   - [Fayouz](https://github.com/Fayouzz)
   - [Fazil Khan](https://github.com/comfazil)
+  - [Felipe Alves](https://github.com/noirtek96)
   - [Felix Akinloye](https://github.com/flexzy2011)
   - [Felix Domingos](https://github.com/felixdomingos1)
   - [Felix Gomez](https://github.com/felixdavid12)
